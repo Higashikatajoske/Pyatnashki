@@ -1,0 +1,7 @@
+C:\Users\Professional\source\repos\Pyatnashki\Pyatnashki\bin\Debug\Pyatnashki.exe.config
+C:\Users\Professional\source\repos\Pyatnashki\Pyatnashki\bin\Debug\Pyatnashki.exe
+C:\Users\Professional\source\repos\Pyatnashki\Pyatnashki\bin\Debug\Pyatnashki.pdb
+C:\Users\Professional\source\repos\Pyatnashki\Pyatnashki\obj\Debug\Pyatnashki.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\Pyatnashki\Pyatnashki\obj\Debug\Pyatnashki.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Pyatnashki\Pyatnashki\obj\Debug\Pyatnashki.exe
+C:\Users\Professional\source\repos\Pyatnashki\Pyatnashki\obj\Debug\Pyatnashki.pdb
